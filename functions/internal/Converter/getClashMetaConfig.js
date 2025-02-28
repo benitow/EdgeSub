@@ -18,7 +18,7 @@ const BasicConfig = {
     isUDP: true,
     isSSUoT: false,
     isInsecure: true,
-    RemoteConfig: "https://raw.githubusercontent.com/kobe-koto/EdgeSub/main/assets/minimal_remote_conf/basic.ini",
+    RemoteConfig: "https://raw.githubusercontent.com/benitow/ruleset/refs/heads/main/Openclash_ruleset_20250204.ini?token=GHSAT0AAAAAAC6NFSN7H4HCRNBAC5FNEOOQZ6BRRCA",
     isForcedRefresh: false
 }
 
